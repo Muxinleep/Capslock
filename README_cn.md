@@ -313,7 +313,7 @@ https://pqrs.org/osx/karabiner/complex_modifications/#ultimate_macOS
 | <kbd>⌥</kbd><kbd>1</kbd>              | <kbd>BrightnessDown</kbd>     |                                  |
 | <kbd>⌥</kbd><kbd>2</kbd>              | <kbd>BrightnessUp</kbd>       |                                  |
 | <kbd>⌥</kbd><kbd>3</kbd>              | <kbd>ExposeAll</kbd>          |                                  |
-| <kbd>⌥</kbd><kbd>4</kbd>              | <kbdLaunchPad></kbd>          |                                  |
+| <kbd>⌥</kbd><kbd>4</kbd>              | <kbd>LaunchPad</kbd>         |                                  |
 | <kbd>⌥</kbd><kbd>5</kbd>              | <kbd>KeyboardLightDown</kbd>  |                                  |
 | <kbd>⌥</kbd><kbd>6</kbd>              | <kbd>KeyboardLightUp</kbd>    |                                  |
 | <kbd>⌥</kbd><kbd>7</kbd>              | <kbd>MusicPrev</kbd>          |                                  |
@@ -428,8 +428,3 @@ and you just
 
 DO WHAT THE FUCK YOU WANT TO.
 ```
-
-
-
-
-
